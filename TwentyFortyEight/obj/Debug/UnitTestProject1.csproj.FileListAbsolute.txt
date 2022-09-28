@@ -1,0 +1,2 @@
+C:\Users\Mr.Khang\Desktop\TwentyFortyEight\TwentyFortyEight\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Mr.Khang\Desktop\TwentyFortyEight\TwentyFortyEight\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
